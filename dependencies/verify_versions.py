@@ -228,6 +228,7 @@ def verify_versions(
 
 
 if __name__ == "__main__":
+    exit ()
     try:
         no_tools = False
         no_pdks = False
